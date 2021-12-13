@@ -42,7 +42,7 @@ main {
     padding-left: 56.25%;
     display: block;
     content: '';
-    text-decoration-color: blue;
+    text-decoration-color: green;
 }
 .Title{
     font-size: 100px;
@@ -50,4 +50,3 @@ main {
     color: green;
     margin-bottom: 0px;
 }
-stylesheet
