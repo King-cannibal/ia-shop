@@ -43,3 +43,9 @@ main {
     content: '';
     text-decoration-color: blue;
 }
+.Title{
+    font-size: 100px;
+    font-weight: bold;
+    color: hsla(240,100%,50%,0.7);
+    margin-bottom: 0px;
+}
