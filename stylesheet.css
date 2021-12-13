@@ -27,7 +27,6 @@ main {
   color: white;
 }
 .Frame {
-    transition-property: none;
     width: 85%;
     background-color: blue;
     border: 3px solid transparent;
@@ -41,4 +40,5 @@ main {
     padding-left: 56.25%;
     display: block;
     content: '';
+    text-decoration-color: blue;
 }
