@@ -25,6 +25,7 @@ main {
   display: block;
   margin: 0 0.5em;
   color: white;
+  opacity: 0;
 }
 .Frame {
     width: 85%;
