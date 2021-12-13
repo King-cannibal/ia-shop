@@ -1,0 +1,7 @@
+body {
+    background-image: url('https://live.staticflickr.com/65535/51745214279_d63e776dbe_b.jpg');
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: relative;
+}
