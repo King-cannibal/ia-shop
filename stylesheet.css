@@ -5,11 +5,23 @@ body {
     background-size: 100% 100%;
     position: relative;
 }
-floate {
-  float: left;
-  margin-left: 2%;
-  border-radius: 5%;
-  color: black;
+main {
+  margin-bottom: 200%;
+}
+.floating-menu {
+  font-family: sans-serif;
+  background: black;
+  padding: 5px;;
+  width: 130px;
+  z-index: 100;
+  border-width: 2px;
   border-color: red;
-  border-width: thin;
+  position: fixed;
+}
+.floating-menu a,
+.floating-menu h3 {
+  font-size: 0.9em;
+  display: block;
+  margin: 0 0.5em;
+  color: white;
 }
