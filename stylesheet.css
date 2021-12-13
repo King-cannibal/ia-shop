@@ -28,8 +28,8 @@ main {
 }
 .Frame {
     width: 85%;
-    background-color: black;
-    border: 3px solid darkred;
+    background-color: blue;
+    border: 3px solid transparent;
     padding: 5px;
     margin: 5px;
     transparent: 20%;
