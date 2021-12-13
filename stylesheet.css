@@ -27,7 +27,7 @@ main {
   color: white;
 }
 .Frame {
-    transition-property: 30%;
+    transition-property: none;
     width: 85%;
     background-color: blue;
     border: 3px solid transparent;
