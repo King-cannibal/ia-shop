@@ -47,6 +47,6 @@ main {
 .Title{
     font-size: 100px;
     font-weight: bold;
-    color: hsla(240,100%,50%,0.7);
+    color: green;
     margin-bottom: 0px;
 }
