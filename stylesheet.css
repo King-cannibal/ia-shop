@@ -27,12 +27,12 @@ main {
   color: white;
 }
 .Frame {
+    transition-property: 30%;
     width: 85%;
     background-color: blue;
     border: 3px solid transparent;
     padding: 5px;
     margin: 5px;
-    transparent: 20%;
     display: inline-block;
     position: absolute;
     left: 5%;
