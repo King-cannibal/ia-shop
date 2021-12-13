@@ -35,7 +35,7 @@ main {
     display: inline-block;
     position: absolute;
     left: 5%;
-    transition-property: none;
+    transition-property: 20%;
 }
 .Frame::after {
     padding-left: 56.25%;
