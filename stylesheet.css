@@ -16,6 +16,7 @@ main {
   z-index: 100;
   border-width: 20px;
   border-color: red;
+  scroll-behavior: 3;
   position: fixed;
 }
 .floating-menu a,
