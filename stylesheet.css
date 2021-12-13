@@ -15,7 +15,7 @@ main {
   width: 130px;
   z-index: 100;
   border-width: 20px;
-  border-color: red;
+  border-color: transparent;
   scroll-behavior: 4;
   position: fixed;
 }
@@ -25,4 +25,20 @@ main {
   display: block;
   margin: 0 0.5em;
   color: white;
+}
+.Frame {
+    width: 85%;
+    background-color: black;
+    border: 3px solid darkred;
+    padding: 5px;
+    margin: 5px;
+    transparent: 20%;
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+}
+.Frame::after {
+    padding-left: 56.25%;
+    display: block;
+    content: '';
 }
