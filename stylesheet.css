@@ -93,12 +93,13 @@ p {
     margin-bottom: -50px;
     font-size:40px;
     font-weight:bold;
-    color:#0000ffb3;
+    color: yellow;
     text-align: center;
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
     align-items: baseline;
+    opacity: 0.8;
 }
 .FootNote {
     width: 64%;
@@ -117,7 +118,7 @@ p {
     color: white;
     padding: 12px 20px;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     margin: 4px 2px;
     margin-left: 35.5%;
     opacity: 0.9;
