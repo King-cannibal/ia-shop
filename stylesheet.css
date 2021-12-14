@@ -31,6 +31,7 @@ main {
     width: 85%;
     background-color: darkblue;
     border: 3px solid;
+    border: brown solid;
     padding: 5px;
     margin: 10px;
     display: inline-block;
@@ -49,4 +50,20 @@ main {
     font-weight: bold;
     color: green;
     margin-bottom: 0px;
+}
+.Option {
+    width: 350px;
+    height: 150px;
+    background-color: black;
+    border: 3px solid darkred;
+    padding: 25px;
+    margin: 20px;
+    font-size: 25px;
+    font-weight:bold;
+    color:#ff3312;
+    opacity: 0.4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
