@@ -79,7 +79,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    opacity: 0.55;
+    opacity: 0.5;
 }
 .Totals {
     width: 70%;
