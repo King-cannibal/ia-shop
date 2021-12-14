@@ -99,8 +99,7 @@ p {
     flex-flow: row nowrap;
     justify-content: center;
     align-items: baseline;
-    opacity: 0.8;
-}
+  }
 .FootNote {
     width: 64%;
     color: yellow;
@@ -118,7 +117,7 @@ p {
     color: white;
     padding: 12px 20px;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     margin: 4px 2px;
     margin-left: 35.5%;
     opacity: 0.9;
