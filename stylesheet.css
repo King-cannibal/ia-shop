@@ -65,7 +65,7 @@ p {
     width: 90%;
     display: flex;
     flex-wrap: wrap;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 .Option {
     width: 350px;
@@ -81,6 +81,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 25px;
     opacity: 0.5;
 }
 .Totals {
