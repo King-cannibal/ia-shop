@@ -148,13 +148,13 @@ p {
 ::-webkit-scrollbar-thumb:hover {
     background:  #b30000 ;
 }
-#trade {
+.trade {
  background-color: red;
  border-radius: 5px solid brown;
  color: blue;
  font-size: 10px;
 }
-#trade:hover {
+.trade:hover {
  color: yellow;
  font-size: 4px;
 
