@@ -269,6 +269,7 @@
                 <div class="Option">
                     <img src="https://live.staticflickr.com/65535/51679426651_bd1ed7d38b_t.jpg" width="100" height="100" alt="wither skull">
                     <run>
+                          <font size=4px>
                         <p>1 Stack Of TNT for 1 Skull</p>
                         <!--- Don't use the same function twice : ) --->
                         <input type="button" value="Trade!" onClick="onClickN1(); onClickN();" /></button>
@@ -521,7 +522,7 @@
                 <script>
                     function onClickN() {
                         var newItem = document.createElement("dive") ;
-                        newItem.innerHTML = "<p>Stack Of TNT</p>" ;
+                        newItem.innerHTML = "<p>stack of tnt</p>" ;
                         document.getElementById("button").appendChild(newItem)
                         newItem.onclick = removeItem;
                         document.getElementById("list").appendChild(newItem)
@@ -529,8 +530,6 @@
                     function removeItem() {
                         document.getElementById("back").remove(button) ;
                     }
-                      document.write(Date());
-                   }
                 </script>
             </div>
             <div class="FootNote">
