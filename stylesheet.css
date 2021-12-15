@@ -155,7 +155,8 @@ p {
  font-size: 10px;
 }
 .trade:hover {
+ transition: 0.3s;
  color: yellow;
  font-size: 4px;
-
+ opacity: 0.5;
 }
