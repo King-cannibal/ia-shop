@@ -13,7 +13,7 @@ p {
 }
 .floating-menu {
   font-family: sans-serif;
-  background: 0,0,0;
+  background: lightgrey;
   padding: 3px;;
   width: 130px;
   z-index: 100;
