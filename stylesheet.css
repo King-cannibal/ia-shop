@@ -23,6 +23,7 @@ p {
   scroll-behavior: smooth;
   position: fixed;
   transition-property: all;
+  display: inline-block;
 }
 .floating-menu a,
 .floating-menu h3 {
@@ -113,13 +114,14 @@ p {
     background-color: darkgreen;
     border-radius: 3px solid lightgreen;
     color: white;
-    padding: 12px 25px;
+    padding: 12px 30px;
     text-align: center;
     font-size: 12px;
     margin: 4px 2px;
     margin-left: 35.5%;
     opacity: 0.9;
     transition: 0.3s;
+    display: inline-block;
 }
 #Discord_Button:hover {
     opacity: 0.7
