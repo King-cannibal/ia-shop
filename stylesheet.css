@@ -57,6 +57,7 @@ p {
     position: absolute;
     left: 5%;
     opacity: 0.7;
+    border-radius: 10px;
 }
 .Frame::after {
     padding-left: 56.25%;
@@ -112,7 +113,7 @@ p {
 /* HTML Element IDs */
 #Discord_Button {
     background-color: darkgreen;
-    border-radius: 3px solid lightgreen;
+    border-radius: 30px solid lightgreen;
     color: white;
     padding: 20px 55px;
     text-align: center;
