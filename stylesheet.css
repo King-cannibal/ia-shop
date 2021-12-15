@@ -125,6 +125,7 @@ p {
 #Discord_Button:hover {
     font-size: 0px;
     opacity: 0.5;
+    color: black;
 }
 
 /* Width */
