@@ -163,4 +163,6 @@ p {
  color: yellow;
  font-size: 4px;
  opacity: 0.3;
+ height: 20px;
+ width: 50px;
 }
