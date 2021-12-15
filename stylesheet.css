@@ -122,6 +122,7 @@ p {
     transition: 0.3s;
     display: inline-block;
     align-self: 2%;
+    left; 0.3%;
 }
 #Discord_Button:hover {
     font-size: 10px;
