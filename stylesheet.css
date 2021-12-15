@@ -121,8 +121,7 @@ p {
     margin-left: 7.5%;
     transition: 0.3s;
     display: inline-block;
-    align-self: 2%;
-    left; 0.3%;
+    align-self: stretch;
 }
 #Discord_Button:hover {
     font-size: 10px;
