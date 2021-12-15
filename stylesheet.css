@@ -114,14 +114,14 @@ p {
     background-color: darkgreen;
     border-radius: 3px solid lightgreen;
     color: white;
-    padding: 20px 50px;
+    padding: 20px 55px;
     text-align: center;
     font-size: 12px;
     margin: 4px 2px;
     margin-left: 15.5%;
     transition: 0.3s;
     display: inline-block;
-    align-self: 5%;
+    align-self: 2%;
 }
 #Discord_Button:hover {
     font-size: 5px;
