@@ -155,6 +155,8 @@ p {
  font-size: 10px;
  padding: 15px 15px;
  opacity: 0.8;
+ height: 40px;
+ width: 33;
 }
 #rade:hover {
  transition: 0.3s;
