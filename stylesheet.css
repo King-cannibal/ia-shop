@@ -123,7 +123,7 @@ p {
     display: inline-block;
 }
 #Discord_Button:hover {
-    font-size: 5px;
+    font-size: 0px;
     opacity: 0.5;
 }
 
