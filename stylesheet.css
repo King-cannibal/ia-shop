@@ -148,13 +148,15 @@ p {
 ::-webkit-scrollbar-thumb:hover {
     background:  #b30000 ;
 }
-.rade {
+#rade {
  background-color: red;
  border-radius: 5px solid brown;
  color: blue;
  font-size: 10px;
+ height: 8px;
+ width: 14px;
 }
-.rade:hover {
+#rade:hover {
  transition: 0.3s;
  color: yellow;
  font-size: 4px;
