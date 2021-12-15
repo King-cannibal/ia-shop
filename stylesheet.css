@@ -153,12 +153,12 @@ p {
  border-radius: 10px solid brown;
  color: blue;
  font-size: 10px;
- height: 33px;
- width: 40px;
+ padding: 15px 15px;
+ opacity: 0.8;
 }
 #rade:hover {
  transition: 0.3s;
  color: yellow;
  font-size: 4px;
- opacity: 0.5;
+ opacity: 0.3;
 }
