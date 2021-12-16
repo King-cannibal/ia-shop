@@ -181,7 +181,7 @@ p {
     opacity: 0.9;
     justify-content: center;
     float: none;
-    display: contents; 
+    display: inline-block;
 }
 #image::after {
     padding-left: 56.25%;
