@@ -180,6 +180,7 @@ p {
     border-radius: 25px;
     opacity: 0.9;
     justify-content: center;
+    float: none;
 }
 #image::after {
     padding-left: 56.25%;
