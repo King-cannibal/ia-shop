@@ -179,4 +179,9 @@ p {
     align-items: center;
     border-radius: 25px;
     opacity: 0.9;
+    justify-content: center;
 }
+#image::after {
+    padding-left: 56.25%;
+    display: block;
+    content: '';
