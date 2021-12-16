@@ -157,8 +157,6 @@ p {
  opacity: 0.8;
  height: 40px;
  width: 70px;
- justify-content: center;
- align-items: center;
 }
 #rade:hover {
  transition: 0.3s;
@@ -167,10 +165,6 @@ p {
  opacity: 0.3;
  height: 20px;
  width: 50px;
-}
-#Option:hover {
- transition: 0.3s;
- opacity: 0.4;
 }
 #image {
     border: 3px solid darkred;
