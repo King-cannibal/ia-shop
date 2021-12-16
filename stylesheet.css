@@ -174,16 +174,4 @@ p {
 }
 #image {
     border: 3px solid darkred;
-    color:#ff3312;
-    display: flex;
-    align-items: center;
     border-radius: 25px;
-    opacity: 0.9;
-    justify-content: center;
-    float: none;
-    display: inline-block;
-}
-#image::after {
-    padding-left: 56.25%;
-    display: block;
-    content: '';
