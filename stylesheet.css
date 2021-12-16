@@ -166,11 +166,6 @@ p {
  height: 20px;
  width: 50px;
 }
-#Option:hover {
- transition: 0.3s;
- opacity: 0.4;
- /* might create problems remove if so ^^^ */
-}
 #image {
     border: 3px solid darkred;
     border-radius: 25px;
