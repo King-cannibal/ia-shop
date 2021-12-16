@@ -157,8 +157,6 @@ p {
  opacity: 0.8;
  height: 40px;
  width: 70px;
- text-shadow: bold;
- text-align: center;
 }
 #rade:hover {
  transition: 0.3s;
