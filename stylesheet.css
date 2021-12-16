@@ -167,5 +167,5 @@ p {
  width: 50px;
 }
 #imaget {
-    border: 3px solid darkred;
-    border-radius: 25px;
+ border-radius: 10px solid brown;
+}
