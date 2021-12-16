@@ -70,7 +70,7 @@ p {
     flex-wrap: wrap;
     margin-left: 100px;
 }
-#Option {
+.Option {
     width: 350px;
     height: 150px;
     background-color: darkblue;
@@ -165,7 +165,4 @@ p {
  opacity: 0.3;
  height: 20px;
  width: 50px;
-}
-#imaget {
- border-radius: 10px solid brown;
 }
