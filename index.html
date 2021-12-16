@@ -47,7 +47,7 @@
                 <div class="Option">
                     <img src="https://live.staticflickr.com/65535/51751009588_63320f6125_z.jpg" width="100" height="100" alt="god gap">
                     <run>
-                      <p>  <font size="6px">tommy Box</p></font><font size="3px">(Shulker of totems) for 9 ingots</font>
+                      <p>  <font size="6px">tommy Box</p><font size="3px">(Shulker of totems) for 9 ingots</font>
                                                   <!--- Don't use the same function twice : ) --->
                         <input type="button" id="rade" value="Trade!" onClick="onClickA1(); onClickA();" /></button>
                         <script type="text/javascript">
@@ -61,15 +61,15 @@
                 </div>
                 <!-- Option 2 -->
                 <div class="Option">
-                    <img src="https://live.staticflickr.com/65535/51660509647_a939cfb2ee_t.jpg" width="100" height="100" alt="wither skull">
+                    <img src="https://live.staticflickr.com/65535/51751754710_670d4abb99.jpg" width="100" height="100" alt="wither skull">
                     <run>
-                        <p>5 Skulls for 1 God Gap</p>
+                        <p>shulker of sticks for 2 netherite</p>
                         <!--- Don't use the same function twice : ) --->
                         <input type="button" id="rade" value="Trade!" onClick="onClickB1(); onClickB();" /></button>
                         <script type="text/javascript">
                             var netherite = 0;
                             function onClickB1() {
-                                netherite += 1;
+                                netherite += 2;
                                 document.getElementById("netherite").innerHTML = netherite;
                             };
                         </script>
@@ -77,15 +77,15 @@
                 </div>
                 <!-- Option 3 -->
                 <div class="Option">
-                    <img src="https://live.staticflickr.com/65535/51665855625_7f9c31eefb_t.jpg" width="100" height="100" alt="end crystal">
+                    <img src="https://live.staticflickr.com/65535/51751534364_ace5965582_w.jpg" width="100" height="100" alt="end crystal">
                     <run>
-                        <p>32 End Crystals for 3 Skulls</p>
+                        <p>shulker of ender pearls for 2 netherite</p>
                         <!--- Don't use the same function twice : ) --->
                         <input type="button" id="rade" value="Trade!" onClick="onClickC1(); onClickC();"/>
                         <script type="text/javascript">
                             var netherite = 0;
                             function onClickC1() {
-                                netherite += 3;
+                                netherite += 2;
                                 document.getElementById("netherite").innerHTML = netherite;
                             };
                         </script>
@@ -330,7 +330,7 @@
                 <script>
                     function onClickA() {
                         var newItem = document.createElement("dive") ;
-                        newItem.innerHTML = "<p>1 Enchanted Golden Apple</p>" ;
+                        newItem.innerHTML = "<p>tommy box</p>" ;
                         document.getElementById("button").appendChild(newItem)
                         newItem.onclick = removeItem;
                         document.getElementById("list").appendChild(newItem)
@@ -343,7 +343,7 @@
                 <script>
                     function onClickB() {
                         var newItem = document.createElement("dive") ;
-                        newItem.innerHTML = "<p>5 Wither Skulls</p>" ;
+                        newItem.innerHTML = "<p>shulker of sticks</p>" ;
                         document.getElementById("button").appendChild(newItem)
                         newItem.onclick = removeItem;
                         document.getElementById("list").appendChild(newItem)
@@ -356,7 +356,7 @@
                 <script>
                     function onClickC() {
                         var newItem = document.createElement("dive") ;
-                        newItem.innerHTML = "<p>32 End Crystals</p>" ;
+                        newItem.innerHTML = "<p>ender pearls</p>" ;
                         document.getElementById("button").appendChild(newItem)
                         newItem.onclick = removeItem;
                         document.getElementById("list").appendChild(newItem)
