@@ -158,6 +158,7 @@ p {
  height: 40px;
  width: 70px;
  justify-content: center;
+ align-items: center;
 }
 #rade:hover {
  transition: 0.3s;
@@ -173,10 +174,9 @@ p {
 }
 #image {
     border: 3px solid darkred;
-    padding: 25px;
     color:#ff3312;
     display: flex;
-    justify-content: center;
     align-items: center;
     border-radius: 25px;
     opacity: 0.9;
+}
