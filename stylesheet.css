@@ -70,7 +70,7 @@ p {
     flex-wrap: wrap;
     margin-left: 100px;
 }
-.Option {
+#Option {
     width: 350px;
     height: 150px;
     background-color: darkblue;
@@ -171,7 +171,7 @@ p {
  transition: 0.3s;
  opacity: 0.4;
 }
-.image {
+#image {
     border: 3px solid darkred;
     padding: 25px;
     color:#ff3312;
